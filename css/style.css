@@ -190,7 +190,7 @@ p.top-p{
 	text-align:center;
 }
 .about-left{
-	background:url(../images/frfabout.jpg) no-repeat 0px -20px;
+	background:url(../images/frfb.jpg) no-repeat 0px -20px;
 	background-size:cover;
 	min-height:400px;
 }
@@ -280,7 +280,7 @@ h4.modal-title {
 
 /*--skills--*/
 .skills-w3ls{
-	background:url(../images/skillsbg.jpg) no-repeat 0px 0px;
+	background:url(../images/fg1.jpeg) no-repeat 0px 0px;
 	background-size:cover;
 	text-align:center;
 }
@@ -489,7 +489,7 @@ ul.social-icons li  a .fa-linkedin:hover{
 /*--team--*/
 /*-- clients--*/
 .clients{
-	background:url('../images/frfb.jpg') no-repeat 0px 0px;
+	background:url('../images/frfabout.jpg') no-repeat 0px 0px;
 	background-size:cover;
 	text-align:center;
 	background-attachment:fixed;
@@ -727,7 +727,7 @@ ul.agileits-company-social .fa-google-plus:hover{
 		float: left;
 	}
 	.about-left {
-		background: url(../images/frfabout.jpg) no-repeat 0px -112px;
+		background: url(../images/frfb.jpg) no-repeat 0px -112px;
 		background-size: cover;
 		min-height: 370px;
 	}
@@ -1002,7 +1002,7 @@ ul.agileits-company-social .fa-google-plus:hover{
 		font-size: 28px;
 	}
 	.about-left {
-		background: url(../images/frfabout.jpg) no-repeat 0px -62px;
+		background: url(../images/frfb.jpg) no-repeat 0px -62px;
 		background-size: cover;
 	}
 	canvas {
@@ -1035,7 +1035,7 @@ ul.agileits-company-social .fa-google-plus:hover{
 		width: 78%;
 	}
 	.about-left {
-		background: url(../images/frfabout.jpg) no-repeat 0px -47px;
+		background: url(../images/frfb.jpg) no-repeat 0px -47px;
 		background-size: cover;
 	}
 	.about-right h4 {
@@ -1047,7 +1047,7 @@ ul.agileits-company-social .fa-google-plus:hover{
 }
 @media(max-width:375px){
 	.about-left {
-		background: url(../images/frfabout.jpg) no-repeat 0px -40px;
+		background: url(../images/frfb.jpg) no-repeat 0px -40px;
 		background-size: cover;
 	}
 }
@@ -1065,7 +1065,7 @@ ul.agileits-company-social .fa-google-plus:hover{
 		font-size: 23px;
 	}
 	.about-left {
-		background: url(../images/frfabout.jpg) no-repeat 0px 0px;
+		background: url(../images/frfb.jpg) no-repeat 0px 0px;
 		background-size: cover;
 	}
 	div#demo-pie-3, div#demo-pie-1 {
